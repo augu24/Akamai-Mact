@@ -1,5 +1,5 @@
 # Akamai-Mact
-A quick beginning to solving akamai mact function
+A quick beginning to solving akamai mact
 
 ## ⛔️ Disclaimer
 
